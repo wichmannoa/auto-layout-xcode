@@ -6,7 +6,7 @@ Testing Vim.
 Commands:
 :x = Save;
 :q = ? It failed, TODO: Google it. 
-# = Title;
+Symbol# = Title;
 TODO: Google more vim commands. 
 
 #Title:
