@@ -5,4 +5,4 @@
 Is this regular text?
 Yes it is.
 #Is this a title?
-Yes, tiles seem to be initialized by "#" \# #
+Yes, tiles seem to be initialized by #. Cool. 
